@@ -1,0 +1,12 @@
+Лабораторна робота 3 Рубан Маргарити
+
+1) Створюємо REST сервіс для роботи з базою даних
+(виконання CRUD операцій)
+2)Заходимо в папку лаби
+ Інсталюємо pip:
+   pip install virtualenv            
+   virtualenv venv --python=python3.9
+   source venv/bin/activate
+   pip install -r requirements.txt
+3)Запускаємо проект (uvicorn main:app)
+4)Відкриваємо сайт
